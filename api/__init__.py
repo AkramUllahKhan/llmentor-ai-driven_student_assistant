@@ -1,0 +1,1 @@
+from .uetbot_service import UET_PROMPT
